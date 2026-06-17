@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "centroids",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "dummy": 1, "label": "Patch-1", "layer": "Centroids1", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={0f0daf04-0d56-4a48-976b-38132fc2d670}" }, "geometry": { "type": "Point", "coordinates": [ -0.949142129226106, 37.784427903535814 ] } },
+{ "type": "Feature", "properties": { "dummy": 2, "label": "Patch-2", "layer": "Centroids2", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={370d84eb-d988-48fa-a896-867ef41b0132}" }, "geometry": { "type": "Point", "coordinates": [ -1.434621289500041, 38.062355302587221 ] } },
+{ "type": "Feature", "properties": { "dummy": 3, "label": "Patch-3", "layer": "Centroids3", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={bd2fcbd2-46de-43b7-80d7-834bf3e82562}" }, "geometry": { "type": "Point", "coordinates": [ -1.474687633680795, 37.92014818691591 ] } },
+{ "type": "Feature", "properties": { "dummy": 5, "label": "Patch-4", "layer": "Centroids4", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={0702c244-1dc3-47f3-8d5e-a8bb8f23df3f}" }, "geometry": { "type": "Point", "coordinates": [ -0.942918676088682, 38.170727840304316 ] } },
+{ "type": "Feature", "properties": { "dummy": 6, "label": "Patch-5", "layer": "Centroids5", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={675c33f9-fbee-4c6d-b15c-4e7cfb13b9c8}" }, "geometry": { "type": "Point", "coordinates": [ -0.940924982406483, 38.187232245191986 ] } },
+{ "type": "Feature", "properties": { "dummy": 7, "label": "Patch-6", "layer": "Centroids6", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={9bcc2225-c59d-4f5e-b689-fc9f9a8bb8f3}" }, "geometry": { "type": "Point", "coordinates": [ -1.281198832812985, 37.934514528173096 ] } },
+{ "type": "Feature", "properties": { "dummy": 8, "label": "Patch-7", "layer": "Centroids7", "path": "Point?crs=EPSG:4326&field=dummy:integer(0,0)&uid={490e29f6-c268-4815-8c86-1bc046b350dd}" }, "geometry": { "type": "Point", "coordinates": [ -1.271425508572544, 37.944109223360442 ] } }
+]
+}

@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+joblib
+rasterio
+pyproj
+
+# CPU
+tensorflow
+
+# GPU — uncomment the line below and comment out the CPU line above
+# tensorflow[and-cuda]
